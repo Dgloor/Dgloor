@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🥴
 - 🎯 2021 Goals: Contribute more to Open Source projects
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -28,6 +28,6 @@
 ---
 
 
-### Don't fall
+## Don't fall
 ![cat](https://github.com/Dgloor/Dgloor/blob/main/325.gif)
 
