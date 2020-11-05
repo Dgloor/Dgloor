@@ -4,7 +4,7 @@
 
 ## I'm a Computer Science student and passionate about technology...
 
-- 🌱 I’m currently learning everything 🥴
+- 🌱 I’m currently learning everything ✌
 - 🎯 2021 Goals: Contribute more to Open Source projects
 
 ## Languages and Tools:
