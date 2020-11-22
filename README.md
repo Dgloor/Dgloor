@@ -2,10 +2,10 @@
 ### Hi there, I'm Danny Loor 🐱‍👤
 ![Profile views](https://gpvc.arturio.dev/Dgloor)  
 
-## I'm a Computer Science student and passionate about technology...
+## I'm a Computer Science Student and in love with technology and cats...
 
 - 🌱 I’m currently learning everything ✌
-- 🎯 2021 Goals: Contribute more to Open Source projects
+- 🎯 2021 Goals: Try to sleep a little more 😴
 
 ## Languages and Tools:
 
@@ -26,8 +26,3 @@
 </br>
 
 ---
-
-
-## Don't fall
-![cat](https://github.com/Dgloor/Dgloor/blob/main/325.gif)
-
