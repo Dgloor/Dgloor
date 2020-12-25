@@ -10,11 +10,13 @@
 ### Languages and Tools:
 
 - <img align="left" alt="GitHub" width="26px" src="https://github.com/Dgloor/Dgloor/blob/main/icons/java.png" /> Java | Hibernate | Spring | Netbeans | Eclipse | IntelliJ Idea
+
 - <img align="left" alt="GitHub" width="18px" src="https://raw.githubusercontent.com/Dgloor/Dgloor/main/icons/javascript.png" /> Javascript | Typescript | Html | Css | Sass | VsCode
-- <img align="left" alt="GitHub" width="18px" src="https://raw.githubusercontent.com/Dgloor/Dgloor/main/icons/c.png" /> 💻 C | C# | Visual Studio
-- <img align="left" alt="GitHub" width="18px" src="https://raw.githubusercontent.com/Dgloor/Dgloor/main/icons/python.png" /> 💻 Python | Django
-- <img align="left" alt="GitHub" width="18px" src="https://raw.githubusercontent.com/Dgloor/Dgloor/main/icons/figma.png" /> 💻 Figma | Slack
-- <img align="left" alt="GitHub" width="18px" src="https://raw.githubusercontent.com/Dgloor/Dgloor/main/icons/vim.png" /> 💻 Vim | Neovim
-- <img align="left" alt="GitHub" width="18px" src="https://raw.githubusercontent.com/Dgloor/Dgloor/main/icons/git.png" /> 💻 Git | Github
-- <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/Dgloor/Dgloor/main/icons/mysql.png" /> 💻 Mysql
-- <img align="left" alt="GitHub" width="24px" src="https://raw.githubusercontent.com/Dgloor/Dgloor/main/icons/go.png" /> 💻 Go
+
+- <img align="left" alt="GitHub" width="18px" src="https://raw.githubusercontent.com/Dgloor/Dgloor/main/icons/c.png" /> C | C# | Visual Studio
+- <img align="left" alt="GitHub" width="18px" src="https://raw.githubusercontent.com/Dgloor/Dgloor/main/icons/python.png" /> Python | Django
+- <img align="left" alt="GitHub" width="18px" src="https://raw.githubusercontent.com/Dgloor/Dgloor/main/icons/figma.png" /> Figma | Slack
+- <img align="left" alt="GitHub" width="18px" src="https://raw.githubusercontent.com/Dgloor/Dgloor/main/icons/vim.png" /> Vim | Neovim
+- <img align="left" alt="GitHub" width="18px" src="https://raw.githubusercontent.com/Dgloor/Dgloor/main/icons/git.png" /> Git | Github
+- <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/Dgloor/Dgloor/main/icons/mysql.png" /> Mysql
+- <img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/Dgloor/Dgloor/main/icons/go.png" /> Go
