@@ -16,5 +16,5 @@
 - <img align="left" alt="GitHub" width="18px" src="https://raw.githubusercontent.com/Dgloor/Dgloor/main/icons/figma.png" /> Figma | Slack
 - <img align="left" alt="GitHub" width="18px" src="https://raw.githubusercontent.com/Dgloor/Dgloor/main/icons/vim.png" /> Vim | Neovim
 - <img align="left" alt="GitHub" width="18px" src="https://raw.githubusercontent.com/Dgloor/Dgloor/main/icons/git.png" /> Git | Github
-- <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/Dgloor/Dgloor/main/icons/database.png" /> Mysql
+- <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/Dgloor/Dgloor/main/icons/data.png" /> Mysql
 - <img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/Dgloor/Dgloor/main/icons/go.png" /> Go
