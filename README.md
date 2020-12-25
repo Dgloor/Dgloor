@@ -1,6 +1,6 @@
-
 ## Hi there, I'm Danny Loor 🐱‍👤
-![Profile views](https://gpvc.arturio.dev/Dgloor)  
+
+![Profile views](https://gpvc.arturio.dev/Dgloor)
 
 ### I'm a Computer Science Student and in love with technology and cats...
 
