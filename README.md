@@ -1,4 +1,4 @@
-## <img align="center" alt="gif" width="100" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>    Hi there, I'm Danny Loor
+## Hi there, I'm Danny
 
 ![Profile views](https://gpvc.arturio.dev/Dgloor)
 
@@ -10,7 +10,7 @@
 ### Languages and Tools:
 
 - <img align="left" alt="GitHub" width="18px" src="https://raw.githubusercontent.com/Dgloor/Dgloor/main/icons/javascript.png" /> Javascript | Typescript | React Js | Html | Css | Sass | VsCode
-- <img align="left" alt="GitHub" width="26px" src="https://github.com/Dgloor/Dgloor/blob/main/icons/java.png" /> Java | Hibernate | Spring | Netbeans | Eclipse | IntelliJ Idea
+- <img align="left" alt="GitHub" width="20px" src="https://github.com/Dgloor/Dgloor/blob/main/icons/java.png" /> Java | Hibernate | Spring | Netbeans | Eclipse | IntelliJ Idea
 - <img align="left" alt="GitHub" width="18px" src="https://raw.githubusercontent.com/Dgloor/Dgloor/main/icons/c.png" /> C | C# | Visual Studio
 - <img align="left" alt="GitHub" width="16px" src="https://raw.githubusercontent.com/Dgloor/Dgloor/main/icons/python.png" /> Python | Django
 - <img align="left" alt="GitHub" width="18px" src="https://raw.githubusercontent.com/Dgloor/Dgloor/main/icons/fig.png" /> Figma | Slack
